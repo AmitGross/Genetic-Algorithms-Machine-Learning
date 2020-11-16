@@ -1,5 +1,5 @@
 # Genetic-Algorithms-Machine-Learning
-the code learns the best technique to track a desired object in a random position in space. The code uses an aproach that theoretically derieves from evolutionary biology. ("genetic Algorithms") 
+the code learns the best technique to track a desired object in a random position in 2D space. The code uses an aproach that theoretically derieves from evolutionary biology. ("genetic Algorithms") 
 
 this code mimics a poulation of mice that searches for food, the 2 mice that would find food first will produce new offsprings, containing the genetic data (Vectors).
 then all the offsprings of generation 2 would once again ut in a scene where the two fastes to reach the food (object) would reproduce and thier "offsprings" would be the 3rd generation.
