@@ -12,6 +12,7 @@ after z time the scene will stop and the 2 agents with the highest score will ex
 
 additionally a mutant might occout in indeviduals.
 
-controlling the factors of the mutation rates and amount or length of sections of vectors to exchange would impact the learning and behaviour of the agents.
+controlling the factors of the mutation rates and **amount or length of sections of vectors to exchange** would impact the learning and behaviour of the agents.
+**  that is if two agents can exchane thier v4-v8 with one another or v4-v500, Also they may do many  of those exchanges or few  **
 
 Also changing some of the factors could change the behaviour, such as multiple food sources.
